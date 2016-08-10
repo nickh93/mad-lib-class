@@ -11,10 +11,12 @@ $(document).ready(function() {
 
     $(".person1").text(person1Input);
     $(".person2").text(person2Input);
-    $(".animal").text(animalInput);
-    $(".exclamation").text(exclamationInput);
-    $(".verb").text(verbInput);
-    $(".noun").text(nounInput);
+    $(".job1").text(job1Input);
+    $(".job2").text(job2Input);
+    $(".skill1").text(skill1Input);
+    $(".skill2").text(skill2Input);
+    $(".product1").text(product1Input);
+    $(".product2").text(product2Input);
 
     $("#story").show();
 
